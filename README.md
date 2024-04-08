@@ -9,3 +9,7 @@ For my original idea, I was going to use ml5 posenet and upload four of my train
 
 Sadly, I couldn't convert my trained model and my Javascript into python, and I am in a large workload for my final. So I didn't got enough time to finish the project. This will be my next step when I have some time to work with the project!
 
+
+
+https://github.com/OscarrrrW/Com-Sci-Maze/assets/156533053/f1cbd7da-50a5-4592-8ea9-6a2230c55f22
+
